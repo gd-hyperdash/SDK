@@ -18,7 +18,7 @@
 ### Compiler
 
 - [x] `link_name`
-- [x] `dynamic` (partial, see)
+- [x] `dynamic` (partial, see [#3](https://github.com/gd-hyperdash/clang/issues/3))
 - [x] `decorator`
 - [x] `extension` (partial, see [#1](https://github.com/gd-hyperdash/clang/issues/1))
 
